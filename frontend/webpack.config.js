@@ -19,7 +19,7 @@ module.exports = {
     new HtmlWebpackPlugin({ template: 'src/frontend/index.html' })
   ],
 
-  devtool: '#eval-source-map',
+  devtool: '#inline-source-map',
   devServer: {
     historyApiFallback: true,
     noInfo: true,
