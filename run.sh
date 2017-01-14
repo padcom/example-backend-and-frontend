@@ -1,9 +1,8 @@
 #!/bin/sh
 
 #
-# To install Foreman on Debian-based distributions run the following command
-#
-#   $ sudo apt-get install ruby-foreman
+# Forego: https://dl.equinox.io/ddollar/forego/stable
 #
 
-foreman start
+mvn install
+forego start
