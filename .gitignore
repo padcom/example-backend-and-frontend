@@ -1,0 +1,10 @@
+target/
+node/
+node_modules/
+.settings
+.classpath
+.project
+*.log
+*.iml
+*.ipr
+*.iws
