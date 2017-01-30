@@ -6,7 +6,7 @@
 
 	<groupId>org.example</groupId>
 	<artifactId>backend-with-frontend</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Example :: Backend with Frontend</name>
